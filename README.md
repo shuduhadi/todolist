@@ -1,2 +1,2 @@
 # todolist
-To-do list with GUI
+To-do list with GUI and CLI versions
